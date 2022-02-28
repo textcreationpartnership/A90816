@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true every man &amp; woman their own doctor: or, a salve for every sore Being a book full of rare receipts for the most dangerous distempers incident to the bodies of men, women and children; and is very fit to be in all families against any time of sickness, gathered out of the library of that famous traveller Dr. Ponteus and now publish'd for the good and benefit of the kingdom; and being nothing but what is experienced by many thousands of people in city and country, doing good to many. Don't read only but practice also, then speak as you find; and give God the praise in all things. With six most excellent receipts for all sorts of cattle whatsoever. Licensed according to order.</title>
+            <author>Ponteus, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90816</idno>
+            <idno type="STC">Wing P2804F</idno>
+            <idno type="STC">ESTC R231946</idno>
+            <idno type="EEBO-CITATION">99900040</idno>
+            <idno type="PROQUEST">99900040</idno>
+            <idno type="VID">133310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true every man &amp; woman their own doctor: or, a salve for every sore Being a book full of rare receipts for the most dangerous distempers incident to the bodies of men, women and children; and is very fit to be in all families against any time of sickness, gathered out of the library of that famous traveller Dr. Ponteus and now publish'd for the good and benefit of the kingdom; and being nothing but what is experienced by many thousands of people in city and country, doing good to many. Don't read only but practice also, then speak as you find; and give God the praise in all things. With six most excellent receipts for all sorts of cattle whatsoever. Licensed according to order.</title>
+                  <author>Ponteus, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by F.L. for Matthias Drew, bo[ ] living in St. Sepulchres Church yard, and sold by himself, and [ ] living in Red-Lyon Court in White-cross-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel tightly bound with pages mutilated, with some loss of imprint.</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133310:1"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:133310:1"/>
+            <!-- PDF PAGE 50 -->
+            <p>The TRUE Every Man &amp; Woman THEIR OWN DOCTOR: OR, A SALVE for every SORE.</p>
+            <p>Being a Book full of Rare Receipts for the moſt dangerous Di<g ref="char:EOLhyphen"/>ſtempers incident to the Bodies of Men, Women and Children; and is very fit to be in all Families againſt any time of Sickneſs, Gathered out of the Library of that famous Traveller Dr. <hi>Ponteus</hi> and now publiſh'd for the good and benefit of the Kingdom; and being nothing but what is experienced by many thouſands of people in City and Country, doing good to many. Don't read only but practice alſo, then ſpeak as you find; and give God the praiſe in all things.</p>
+            <figure>
+               <p>D. John Ponteus.</p>
+            </figure>
+            <p>With Six moſt Excellent Receipts for all ſorts of Cattle whatſoever. Licenſed according to Order.</p>
+            <p>LONDON, Printed by <hi>F. L.</hi> for <hi>Matthias Drew,</hi> Bo-<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Living in St. <hi>Sepulchres</hi> Church yard, and ſold by himſelf, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Living in <hi>Red-Lyon Court</hi> in <hi>White-croſs-ſtreet.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:133310:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <head>Every Man and Woman their own Doctor</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>I.</hi> For the pain in the Head.</head>
+               <p>TAke the greace of a Heart and mingle with Oat-meal and So<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and temper them well; then lay it Plaiſter-wiſe to thy temp This is proved.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>II.</hi> To Purge the Head.</head>
+               <p>TAke the juice of Primroſe, and Milk of a Cow; and with a Q<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> blow it into thy Nostrils: and this will Purge thy Head.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>III.</hi> For the Megrim in the Head.</head>
+               <p>TAke ſour Bread and Chickweed, and bray them together, am<g ref="char:EOLhyphen"/>boyl them in Vinegar; and ſo bind it to the grieved place: <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> take Barley and ſeeth it well in water, and put in Betony, and oth<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> good Herbs for the Head, and when they be well ſodden, bind the<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to thy Head: For it is good.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>IV.</hi> For a Scald Head.</head>
+               <p>TAke the Liver of a Thorn-back and boyl it by it ſelf; and eight Ele<g ref="char:EOLhyphen"/>campane Roots, and ſeeth them by themſelves in Spring-water two hours; and put that to four handfuls of Houſe-leek, ſtamped and ſtrain<g ref="char:EOLhyphen"/>ed through a Cloth; and make an Oyntment thereof; then anoint t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Head therewith; and if the Hair be gone, take a handful of Wood and bray it hot to powder; then take two ſpoonfuls of Honey, and a<g ref="char:EOLhyphen"/>noint the Head therewith where it is pill'd, and thy Hair will ſoo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome again as thick as ever it was before, This has cured many hundred.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>V.</hi> For ſore and blood ſhot Eyes, or Rhume, hot or cold.</head>
+               <p>TTake Allom burned, beaten to fine Powder, then take as muc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as will lie on a Groat; So mingle it with half a Spoonful o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:133310:2"/>
+                  <!-- PDF PAGE 51 -->Honey, then drop one or two drops into the Eye when you go to Bed, and you will find help to great admiration: This has Cured many in all my Travels, <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>VI.</hi> A Water to clear the ſight.</head>
+               <p>TAke Fennel, Vervain, Roſes, Salendine, and Rue, of each two ounces: and Diſtill them and waſh thine Eyes therewith: this is good for all manner of ſore Eyes.</p>
+            </div>
+            <div n="7" type="section">
+               <head>
+                  <hi>VII.</hi> For a Pearl and Flegm that grows over the Eyes.</head>
+               <p>TAke the Gall of an Hare, and boyl it with as much Honey as the Gall. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <head>
+                  <hi>VIII.</hi> To help the Hearing.</head>
+               <p>TAke and Diſtill Sorrel, or Wormwood, in a common Stillary; and take four drops of either of the ſame Waters, which you will; and put into thy Ear Luke-warm.</p>
+            </div>
+            <div n="9" type="section">
+               <head>
+                  <hi>IX.</hi> For the Rickets in Children.</head>
+               <p>TAke as much Jet as will lie upon a Shilling, and ſteep it in half a pint of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack 4 or 5 hours, then ſtir it about and drink it off, half in the morning, and the reſt at night. This hath done good to many.</p>
+            </div>
+            <div n="10" type="section">
+               <head>
+                  <hi>X.</hi> For stinking of the Mouth.</head>
+               <p>TAke the juice of black Mints, and of Rue a like much, and put it to thy Norſtrils; and this will help thee. This is proved.</p>
+            </div>
+            <div n="11" type="section">
+               <head>
+                  <hi>XI.</hi> For a Mouth that is ſtaid with heat.</head>
+               <p>TAke Ribwort and ſeeth it in Red Wine; and hold it in yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mouth hot: do this often, and be whole.</p>
+            </div>
+            <div n="12" type="section">
+               <head>
+                  <hi>XII.</hi> To recover a Mans Speech.</head>
+               <p>TAke the juice of Sage and Primroſe, and put into the patients Mouth, and he ſhall ſpeak ſtrait, or within a while after.
+<pb n="2" facs="tcp:133310:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 52 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:133310:3"/>
+                  <!-- PDF PAGE 52 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="13" type="section">
+               <pb n="4" facs="tcp:133310:4"/>
+               <!-- PDF PAGE 53 -->
+               <head>
+                  <hi>XIII.</hi> For a Canker in the Mouth.</head>
+               <p>TAke nine Leaves of Sage, and ſtamp them with a little Salt a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Verjuice; and make thereof a Plaiſter, and lay it thereto, and will be whole: but you muſt dreſs it twice a day.</p>
+            </div>
+            <div n="14" type="section">
+               <head>
+                  <hi>XIV.</hi> To make Teeth white.</head>
+               <p>TAke Vinegar of Quinces, and dip a Cloth in it, and rub the Te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Gums therewith: this ſame faſteneth the Teeth and Gu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> comforteth the Roots of the Teeth, and maketh ſweet Breath.</p>
+            </div>
+            <div n="15" type="section">
+               <head>
+                  <hi>XV.</hi> To take away the Tooth-ach in half an hour.</head>
+               <p>TAke Henbane ſeed, Smallage ſeed and Poppy-ſeed, of each <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> weight of a Penny; and make Pellits, with a quantity of Aquavi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and lay it to thy Teeth that ake: and the pain ſhall ceaſe ſtrait.</p>
+            </div>
+            <div n="16" type="section">
+               <head>
+                  <hi>XVI.</hi> For a Red Face.</head>
+               <p>TAke Sow-thiſtles, Burrage, Purſlain, Sorrel, Barley, Parſley Ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Liquoriſh; and boyl all together in running-water: and d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it firſt and laſt.</p>
+            </div>
+            <div n="17" type="section">
+               <head>
+                  <hi>XVII.</hi> To make the Face fair.</head>
+               <p>TAke the Flowers of Roſemary, and boyl them in White-wine; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> waſh thy Face therewith: alſo the Water of Bean flowers will as well.</p>
+            </div>
+            <div n="18" type="section">
+               <head>
+                  <hi>XVIII.</hi> For boarſeneſs in the Throat.</head>
+               <p>TAke Penniroyal and ſeeth it in Running-water, and drink a go<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> draught two or three nights ſomewhat hot, with a little Loaſ-Su<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it; this will make you clear again.</p>
+            </div>
+            <div n="19" type="section">
+               <head>
+                  <hi>XIX.</hi> For ſore Breaſts.</head>
+               <p>TAke a handful of Figgs and ſtamp them, then take a little fre<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Greaſe, and temper it with the Figgs, and make a Plaiſter there and lay it as hot as you can endure it; this will take away the anguiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and if it be apt to break it will, or elſe not.</p>
+            </div>
+            <div n="20" type="section">
+               <pb n="5" facs="tcp:133310:4"/>
+               <!-- PDF PAGE 53 -->
+               <head>
+                  <hi>XX.</hi> For the Spleen.</head>
+               <p>TAke the Roots of Nettles and ſtamp them well together with Vine<g ref="char:EOLhyphen"/>gar: and lay it unto the Spleen when it ſwelleth: alſo the Lungs of a Fox dried and made in Powder, and cat in a Figg in the morning is very good.</p>
+            </div>
+            <div n="21" type="section">
+               <head>
+                  <hi>XXI.</hi> For a stinking Breath.</head>
+               <p>TAke three ounces of comin in powder, and ſeeth in Wine, from, 1 Gallon to a Pottle; and drink of it as hot as you can, firſt and laſt; and in ten dayes you ſhall be whole without doubt.</p>
+            </div>
+            <div n="22" type="section">
+               <head>
+                  <hi>XXII.</hi> To ſtay Vomiting.</head>
+               <p>TAke and make a Toaſt, and temper it with Vinegar, and Mints; and ſo hold it to your Noſe: this ſtayeth Vomiting.</p>
+            </div>
+            <div n="23" type="section">
+               <head>
+                  <hi>XXIII.</hi> For the Running of the Reins.</head>
+               <p>TAke Venice Turpentine, ſo make it into Pills, ſo roll them in Cin<g ref="char:EOLhyphen"/>namon, and Ginger, and good Loaſ-Shugar, ſo ſwallow them down firſt and laſt.</p>
+            </div>
+            <div n="24" type="section">
+               <head>
+                  <hi>XXIV.</hi> For the heat of the Liver.</head>
+               <p>TAke Liver-wort, ond five-leaved Graſs, Endive, Bugloſs, and Bor<g ref="char:EOLhyphen"/>rage: and ſeeth all theſe in Whey: and drink of theſe as often as you will, and this will help you.</p>
+            </div>
+            <div n="25" type="section">
+               <head>
+                  <hi>XXV.</hi> For the Black Jaundies.</head>
+               <p>TAke Enula Campano Roots, and ſeeth them in Milk; then take the Milk and ſtrain it through a piece of Cotton; and give the Sick to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ink thereof this did help a Gentlewoman that hath been troubled ſix o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Years with it, and could not be helped.</p>
+            </div>
+            <div n="26" type="section">
+               <head>
+                  <hi>XXVI.</hi> For the Yellow Jaundies.</head>
+               <p>TAke Elicampane Roots, and the Inner-bark of a Barbary, of each eight ounces, of Salendine Roots as much, of Saffron the weight of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oat; ſeeth all theſe in a pint of White-wine, ſtrain it, drink four <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſuls morning and evening, warm.</p>
+            </div>
+            <div n="27" type="section">
+               <pb n="6" facs="tcp:133310:5"/>
+               <!-- PDF PAGE 54 -->
+               <head>
+                  <hi>XXVII.</hi> For the wind Cholick.</head>
+               <p>TAke Winter-ſavory, ſtamp it and ſtrain it, with ſtrong Ale; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drinkwarm, and immediately the pain will ceaſe, as if it we ſwept away: there has been divers helped with this which has ſwour<g ref="char:EOLhyphen"/>ed away two or three times in a day, with the pain thereof.</p>
+            </div>
+            <div n="28" type="section">
+               <head>
+                  <hi>XXVIII.</hi> For Worms in the Belly.</head>
+               <p>TAke the Pills of Oranges and dry them; ſo make them into Pow<g ref="char:EOLhyphen"/>der and drink it in Malmſey, or ſtate Ale, there is nothing better.</p>
+            </div>
+            <div n="29" type="section">
+               <head>
+                  <hi>XXIX.</hi> For Griping in the Guts.</head>
+               <p>TAke Tanſey, Rhue and Sothern wood; and eat it with Salt faſting and be whole.</p>
+            </div>
+            <div n="30" type="section">
+               <head>
+                  <hi>XXX.</hi> For the ſtone.</head>
+               <p>TAke Acorns that grow on an Oake, and dry them, and make Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der thereof; and drink it in the morning faſting, with Rheni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wine and Sugar: this will break the Stone. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div n="31" type="section">
+               <head>
+                  <hi>XXXI.</hi> For the Scyatica in the Hyp.</head>
+               <p>TAke a Pottle of Wine-lees, and Wine dregs, and Sour bread Cow-dung; and boyl theſe well together, ſo make a Plaiſte hereof and lay it to the pain as hot as you can ſuffer it: and this will heal you.</p>
+            </div>
+            <div n="32" type="section">
+               <head>
+                  <hi>XXXII.</hi> For the Gout, and all manner of Aches.</head>
+               <p>TAke of Clot Roots two pound, and ſeeth them in Piſs till they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tender; and then bray them, and ſtrain them through a Cloth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>hen take ſix Oxe Galls, or Neats, and look that you have a Pottle o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Urine, or more, well ſtrained; then put a quart of Oyl of Olive in, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeeth theſe together till it comes to the quantity of the Oyl: for this w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> work wonders in the Gout.</p>
+            </div>
+            <div n="33" type="section">
+               <head>
+                  <hi>XXXIII.</hi> To kill Corns on Feet or Toes.</head>
+               <p>TAke Roots of white Lillies ſo boyl them in Vinegar, then make it like a Plaiſter and lay it on the Corn, 3 or 4 days and nights and it will make it fall off. But the only thing in the world for Corn is this, if you can take it; which is a black Snail wrapt up in a linne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cloth, laid before a fire and well roſted, So bind it as hot as you c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> endure it to the Corn and keep it ſupplied with freſh Snails Roſted 2 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. nights as need requires, and it will make it dye, and peel off like a Scal and never come again. Proved.</p>
+            </div>
+            <div n="34" type="section">
+               <head>
+                  <hi>XXXVI.</hi> To drive out the ſmall Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </head>
+               <p>TAke Malmſey, Ginger, and Treacle, and mingle them well toge<g ref="char:EOLhyphen"/>ther; and when thou goeſt to bed, drink a good drought, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill drive out the Pox.</p>
+            </div>
+            <div n="35" type="section">
+               <pb n="7" facs="tcp:133310:5"/>
+               <!-- PDF PAGE 54 -->
+               <head>
+                  <hi>XXXV</hi> For the Cramp.</head>
+               <p>TAke two ſpoonfuls of May-butter and two ſpoonfuls of Rhue juyce; and temper them well together till they be a Salve; and anoint the place therewith.</p>
+            </div>
+            <div n="36" type="section">
+               <head>
+                  <hi>XXXVI.</hi> For the Ague and Feaver.</head>
+               <p>TAke the Buds, or Leaves of Willows, Red-ſage, and Fetherfow, of each a handful; ſeeth them in a quart of Milk till the Herbs be well <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odden: then cruſh the Herbs, and wring them in a Cloth, and lay them to your Pulſe as warm as you can ſuffer it: and this will help you.</p>
+            </div>
+            <div n="37" type="section">
+               <head>
+                  <hi>XXXVII.</hi> To make one ſleep well.</head>
+               <p>TAke Ground Ivy. and Sengreen, of each a like quantity; and ſtamp them, and temper them well with Womans milk, and lay it to thy Temples; and this will make thee ſleep well.</p>
+            </div>
+            <div n="38" type="section">
+               <head>
+                  <hi>XXXVIII.</hi> For the biting of a Mad Dog.</head>
+               <p>TAke Mints, a Clove of Garlick, and Salt; ſtamp them together and make a Plaiſter thereof and lay to the bitten place, and this will real it.</p>
+            </div>
+            <div n="39" type="section">
+               <head>
+                  <hi>XXXIX.</hi> To kill a Tetter or Ringworm.</head>
+               <p>TAke Fetherfew, ſtamp it and ſtrain it with Vinegar; and rub the Tetter therewith and this will kill it in a ſhort time.</p>
+            </div>
+            <div n="40" type="section">
+               <head>
+                  <hi>XL</hi> Againſt the Plague.</head>
+               <p>TAke three ounces of the Liquor of the Inner-rind of an Aſh Tree, and Still it, with three ounces of White wine; and give the Patient of every three hours; and within twenty four hours, he ſhall be well, by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Grace of God.</p>
+            </div>
+            <div n="41" type="section">
+               <head>
+                  <hi>XLI.</hi> For a Cut on the finger or Hand.</head>
+               <p>TAke ſome green Hyſop, and ſtamp it well in a Morter, with ſome Sugar; and ſo bind it to thy Hand.</p>
+            </div>
+            <div n="42" type="section">
+               <head>
+                  <hi>XLII.</hi> For a Conſumption</head>
+               <p>TAke the Heart and Lungs of a Call new killed, a Capon; let theſe be bruiſed in a Stone Morter, and boyled with an hundred Snails, till the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth be as thick as Pottage; put to it Harts tongue, Maiden hair, Hyſop, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bias, Sage, of each an handful, with China Roots ſliced, and bea<g ref="char:EOLhyphen"/>ta; two ounces of the Juice of Colts-foot Roots, eight ounces of Blood <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Pig newly killed, and Conſerve of Red-Roſes one pound; theſe being <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll mixed, let them be Diſtilled with a gentle fire, and reſerve it.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:133310:6"/>
+            <!-- PDF PAGE 55 -->
+            <head>Six moſt excellent Receipts for all ſorts of Catt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </head>
+            <div type="section">
+               <head>For faint Cattle, as well Cow, or Ox. Bull or Steer.</head>
+               <p>ONly Vergis is the Remedy given them to drink, and then preſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into a good Paſture: Or elſe thus, take for every one a Pint<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Verguice, and put thereto a handful of Bay-ſalt, and therewith rub th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tongues, then let them drink the reſt. This is proved.</p>
+            </div>
+            <div type="section">
+               <head>An excellent Drench to be given to Cat-tle at the Spring or fall of the L<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </head>
+               <p>TAke hard Soot that commonly is upon the poſts of a Houſe or R<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> where the Smoak hath its iſſue, which being beaten into Pow<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with Bay-ſalt, ſeeth the ſame in Running Water, &amp; give it them to dr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Rank Ivy, with the Soot and ſalt; and when the Ivy is ſoft, w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> out the juice and ſtrain it and let your Cattle drink thereof blood-w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Often proved.</p>
+            </div>
+            <div type="section">
+               <head>A Soveraign Drink for all manner of Cattle that you ſuſpect to be Lung <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </head>
+               <p>TAke the Herb that is called Cowſlip, or Lung-woort, and ſta<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it and put thereto Fenerere and mudded with good Ale: and w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a Horn, or pretty Tunnel Drench either your Horſe, Ox, Cow or Sw<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and it ſhall yield preſent Remedy if there be any Diſeaſe in the Lung.</p>
+            </div>
+            <div type="section">
+               <head>Against the Murren.</head>
+               <p>DWarf-Gentian, of ſome called Mock-gillofer, ſmall chopt an<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ven to Swine and all other Cattle, it preſerveth them wonder <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from the Murren, and all ſuch contagious Deſeaſes as happen to Catt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> corrupt time.</p>
+               <p>The water which ſtandeth in the hollows of Beeches doth perfe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cure the naughty Scurfe and wild Tetters or Scabs of Men, Ho<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Kine, Sheep, if they be waſhed therewithal.</p>
+            </div>
+            <div type="section">
+               <head>For a Gald Horſe Back, or Fiſtula, a preſent Cure.</head>
+               <p>TAke a quantity of Allom and burn it, alſo a handful of Bar<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> more and burn it, then take the powder thereof and mix it <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Allom, and pour it upon the Sore morning and evening: But i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sore be corrupt and full of dead fleſh, then uſe more of the Roch Al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> than of the powder of Barly, and when it beginneth to heal, uſe th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> both together, but moſt of the powder of Barly. This is a moſt exce<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Remedy.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>The Price of this Book is <hi>Two-pence.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
